@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),I'm Abidemi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abidemi
 ==========================================================================================================================================
 
-Data Analyst
+A Data Analyst
 ------------
 I’m a data analyst with expertise in transforming raw data into actionable insights. With skills in Excel, Power BI, Tableau, and SQL, I specialize in performing deep dive analyses to craft intuitives dashboards, and driving data-driven decision-making. I am committed to continuous learning and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
