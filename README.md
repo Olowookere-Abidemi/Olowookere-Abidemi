@@ -1,13 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Abidemi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),I'm Abidemi
 ==========================================================================================================================================
 
 Data Analyst
 ------------
+I’m a passionate data analyst with expertise in transforming raw data into actionable insights. With skills in Excel, Power BI, Tableau, and SQL, I specialize in crafting intuitive dashboards, performing deep dive analyses, and driving data-driven decision-making. I am committed to continuous learning and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Profile](http://https://www.datascienceportfol.io/olowookereabidemi)
-* ✉️  You can contact me at [abidemikaothar@gmail.com](mailto:abidemikaothar@gmail.com)
-* 🧠  Currently learning about Data Analytics
+* 🖥️  Check out my projects [Portfolio](http://https://www.datascienceportfol.io/olowookereabidemi)
+* ✉️  You can contact me at [Email](mailto:abidemikaothar@gmail.com)
+* 🧠  Currently learning Data Analytics
 * 🤝  I'm open to collaborating on data analysis projects
 
 
