@@ -1,3 +1,5 @@
+[![Black-White-Modern-Minimalist-Data-Analyst-Linked-In-Banner.png](https://i.postimg.cc/k4BQ6tf4/Black-White-Modern-Minimalist-Data-Analyst-Linked-In-Banner.png)](https://postimg.cc/qhHhWgfV)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abidemi
 ==========================================================================================================================================
 
