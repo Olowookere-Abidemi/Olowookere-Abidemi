@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olowookere Abidemi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Abidemi
 ==========================================================================================================================================
 
 Data Analyst
@@ -7,7 +7,7 @@ Data Analyst
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Profile](http://https://www.datascienceportfol.io/olowookereabidemi)
 * ✉️  You can contact me at [abidemikaothar@gmail.com](mailto:abidemikaothar@gmail.com)
-* 🧠  I'm learning SQL
+* 🧠  Currently learning about Data Analytics
 * 🤝  I'm open to collaborating on data analysis projects
 
 
@@ -19,4 +19,4 @@ Data Analyst
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Abidemi-xx"><img src="https://github-readme-stats.vercel.app/api?username=Abidemi-xx&show_icons=true&hide=prs,issues,&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Abidemi-xx's GitHub stats" /></a>
+<a href="http://www.github.com/Abidemi-xx"><img src="https://github-readme-stats.vercel.app/api?username=Olowookere-Abidemi&show_icons=true&hide=prs,issues,&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Abidemi-xx's GitHub stats" /></a>
