@@ -3,12 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Analyst
 ------------
-I’m a passionate data analyst with expertise in transforming raw data into actionable insights. With skills in Excel, Power BI, Tableau, and SQL, I specialize in crafting intuitive dashboards, performing deep dive analyses, and driving data-driven decision-making. I am committed to continuous learning and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
+I’m a passionate data analyst with expertise in transforming raw data into actionable insights. With skills in Excel, Power BI, Tableau, and SQL, I specialize in performing deep dive analyses to craft intuitives dashboards, and driving data-driven decision-making. I am committed to continuous learning and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  Check out my projects [Portfolio](http://https://www.datascienceportfol.io/olowookereabidemi)
-* ✉️  You can contact me at [Email](mailto:abidemikaothar@gmail.com)
-* 🧠  Currently learning Data Analytics
+* 🖥️  Portfolio: [View my work](http://https://www.datascienceportfol.io/olowookereabidemi)
+* ✉️  Contact me at [Email](mailto:abidemikaothar@gmail.com)
 * 🤝  I'm open to collaborating on data analysis projects
 
 
@@ -21,3 +20,5 @@ I’m a passionate data analyst with expertise in transforming raw data into act
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Abidemi-xx"><img src="https://github-readme-stats.vercel.app/api?username=Olowookere-Abidemi&show_icons=true&hide=prs,issues,&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Abidemi-xx's GitHub stats" /></a>
+
+Feel free to reach out or explore my repositories to see how I’m leveraging data analytics to solve problems and make an impact. 😊
