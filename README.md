@@ -21,6 +21,4 @@ I’m a data analyst with expertise in transforming raw data into actionable ins
 
 <a href="http://www.github.com/Abidemi-xx"><img src="https://github-readme-stats.vercel.app/api?username=Olowookere-Abidemi&show_icons=true&hide=prs,issues,&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Abidemi-xx's GitHub stats" /></a>
 
-![GitHub metrics](https://metrics.lecoq.io/Olowookere-Abidemi) 
-
 Feel free to reach out or explore my repositories to see how I’m leveraging data analytics to turn data into actionable insights.. 😊
