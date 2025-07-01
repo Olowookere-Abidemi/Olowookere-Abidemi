@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m a data analyst with expertise in transforming raw data into actionable insights. With skills in Excel, Power BI, Tableau, and SQL, I specialize in performing deep dive analyses to craft intuitives dashboards, and driving data-driven decision-making. I am committed to continuous learning and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  Portfolio: [View my projects](http://https://www.datascienceportfol.io/olowookereabidemi)
 * ✉️  Contact me at [Email](mailto:abidemikaothar@gmail.com)
 * 🤝  I'm open to collaborating on data analysis projects
 
